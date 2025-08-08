@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd 
 import random
-import pickle
 from sklearn.preprocessing import StandardScaler
+import pickle
 
 # title 
 
