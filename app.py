@@ -19,7 +19,7 @@ st.header('Model of housing prices to predict median house values in California'
 st.sidebar.title('Select House Features 🏠')
 st.sidebar.image('https://tse4.mm.bing.net/th/id/OIP.oIuTdWdvWKSfYhnRtMyq3QHaEf?cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3')
 
-temp_df = pd.read_csv('California.csv')
+temp_df = pd.read_csv('california.csv')
 
 random.seed(12)
 
